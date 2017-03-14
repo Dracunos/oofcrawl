@@ -370,7 +370,7 @@ static bool _iood_hit(monster& mon, const coord_def &pos, bool big_boom = false)
 bool iood_act(monster& mon, bool no_trail)
 {
     bool iood = mons_is_projectile(mon.type);
-    ASSERT(iood || mons_is_boulder(&mon));
+    //ASSERT(iood || mons_is_boulder(&mon));
 
     float x = mon.props[IOOD_X];
     float y = mon.props[IOOD_Y];
