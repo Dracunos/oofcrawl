@@ -4,6 +4,15 @@ Basically taking [gnollcrawl](https://github.com/Dracunos/gnollcrawl) and replac
 
 Will give the player some goodies to get started, but I doubt anyone will make it very far.
 
+```
+Killed from afar by an ancient lich (81 damage)
+             ... with an iron shot
+             ... summoned by an ancient lich
+             ... summoned by an ancient lich
+             ... summoned by an ancient lich
+             ... on level 2 of the Dungeon.
+```
+
 -------------------
 
 Original DCSS Readme below.
